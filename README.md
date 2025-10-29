@@ -14,8 +14,7 @@
 ---
 
 ## Структура репозитория
-
-- **basics_of_statistics_and_probability** / Основы статистики и теории вероятностей
+1. **basics_of_statistics_and_probability** / Основы статистики и теории вероятностей
 - **classification** / Классификация
 - **clustering** / Кластеризация
 - **dimensionality_reduction** / Снижение размерности
