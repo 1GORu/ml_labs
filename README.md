@@ -15,11 +15,10 @@
 
 ## Структура репозитория
 
-ml_labs/
-├── basics_of_statistics_and_probability/ # Основы статистики и теории вероятностей
-├── classification/ # Классификация
-├── clustering/ # Кластеризация
-├── dimensionality_reduction/ # Снижение размерности
-├── linear_regression/ # Линейная регрессия
-├── own_tasks/ # Собственные задачи, проекты и эксперименты
-└── Reinforcement_learning.ipynb # Введение в обучение с подкреплением
+- __basics_of_statistics_and_probability__ / Основы статистики и теории вероятностей
+- __classification__ / Классификация
+- __clustering__ / Кластеризация
+- __dimensionality_reduction__ / Снижение размерности
+- __linear_regression__ / Линейная регрессия
+- __own_tasks__ / Собственные задачи, проекты и эксперименты
+- __Reinforcement_learning__ / Введение в обучение с подкреплением
