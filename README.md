@@ -15,11 +15,11 @@
 
 ## Структура репозитория
 1. **basics_of_statistics_and_probability** / Основы статистики и теории вероятностей
-- **classification** / Классификация
-- **clustering** / Кластеризация
-- **dimensionality_reduction** / Снижение размерности
-- **linear_regression** / Линейная регрессия
-- **Reinforcement_learning** / Введение в обучение с подкреплением
-- **own_tasks** / Собственные задачи, проекты и эксперименты
+2. **classification** / Классификация
+3. **clustering** / Кластеризация
+4. **dimensionality_reduction** / Снижение размерности
+5. **linear_regression** / Линейная регрессия
+6. **Reinforcement_learning** / Введение в обучение с подкреплением
+7. **own_tasks** / Собственные задачи, проекты и эксперименты
 
 ---
