@@ -59,7 +59,7 @@
 ---
 <br>
 
-## Hypothesis_testing_examples.ipynb
+## Hypothesis_testing_examples.ipynb / Практические примеры проверки статистических гипотез (дополняется)
 
 > Практические примеры проверки статистических гипотез
 
